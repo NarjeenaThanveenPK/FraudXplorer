@@ -1,0 +1,20 @@
+# Data files
+data/*.csv
+!data/dashboard_sample1.csv
+
+# Model files
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
